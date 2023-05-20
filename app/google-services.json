@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883973922034",
+    "project_id": "authentication-a77c0",
+    "storage_bucket": "authentication-a77c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883973922034:android:c2ffa7d25890187e2ec46b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883973922034-bbuqidgqj4ot4fbdbovqsu4eqiod6ash.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPrTsh0CF6rqex11s746D5mPwiUJHGPlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883973922034-bbuqidgqj4ot4fbdbovqsu4eqiod6ash.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
